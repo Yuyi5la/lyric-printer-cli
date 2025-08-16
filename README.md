@@ -1,6 +1,6 @@
 # 🎵 Lyric Printer CLI
 
-A fun Python command-line program that prints song lyrics with a smooth typewriter effect — inspired by a TikTok project.
+A fun Python command-line program that prints song lyrics with a smooth typewriter effect .... inspired by a TikTok project.
 
 ## ✨ Features
 - **Typewriter Effect** – Prints text character-by-character in real-time.
